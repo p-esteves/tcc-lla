@@ -1,0 +1,3 @@
+Este projeto foi desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC) e tem como objetivo a criação de um modelo de deep learning para a classificação de diferentes tipos de células sanguíneas, com foco na identificação de células de leucemia. A leucemia é um tipo de câncer que afeta as células do sangue e da medula óssea, e a sua detecção precoce é fundamental para o tratamento. O trabalho será publicado no Repositório da UFC em breve e assim que sair, colocarei um link aqui.
+
+Utilizamos um conjunto de dados de imagens de células sanguíneas do Kaggle e a biblioteca fastai para treinar um modelo de rede neural convolucional (CNN) capaz de classificar as células em quatro categorias: 'Benigno', 'Inicial', 'Pré B' e 'Pró 
