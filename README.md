@@ -118,5 +118,5 @@ Este repositório concentra-se na **implementação prática do pipeline experim
 
 **Pietro de Oliveira Esteves**  
 Bacharel em Estatística — UFC  
-GitHub: https://github.com/p-esteves
+GitHub: https://github.com/p-esteves  
 Lattes: http://lattes.cnpq.br/7195442117723445
